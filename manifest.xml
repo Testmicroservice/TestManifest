@@ -4,5 +4,5 @@
         fetch="https://github.com/Testmicroservice" />
             <project groups="testrepos" name="TestRepo" path="testrepos/TestRepo" remote="testmicroservice" revision="master" />
             <project groups="testrepos" name="mservice" path="testrepos/mservice" remote="testmicroservice" revision="master" />
-            <project groups="testrepos" name="scripts" path="testrepos/scripts" remote="testmicroservice" revision="newtest" />
+            <project groups="testrepos" name="scripts" path="testrepos/scripts" remote="testmicroservice" revision="pr_test" />
 </manifest>
